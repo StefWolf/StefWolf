@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefwolf&label=Profile%20views&color=0e75b6&style=flat" alt="stefwolf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefwolf" alt="stefwolf" /></a> </p>
-
-- 🔭 I’m currently working on [Cardápio digital](https://github.com/users/StefWolf/projects/1)
+- 🔭 I’m currently working on [Cardápio digital](https://github.com/StefWolf/CardapioDigital)
 
 - 🌱 I’m currently learning **React Native**
 
