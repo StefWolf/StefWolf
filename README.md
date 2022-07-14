@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Meu Portifolio](https://github.com/StefWolf/Portifolio)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native and ReactJS**
 
 - 📫 How to reach me **stefaneassisori@gmail.com**
 
