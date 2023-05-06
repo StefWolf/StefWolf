@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Meu Portifolio](https://github.com/StefWolf/Portifolio)
 
-- 🌱 I’m currently learning **Java, Spring, Tester and ReactJS**
+- 🌱 I’m currently learning **Java, SpringBoot, ReactJs, Unity, C#**
 
 - 📫 How to reach me **stefaneassisori@gmail.com**
 
